@@ -1,13 +1,12 @@
 <div align="center">
   <h1>👋 Hi, I'm Swapnil Sanjeev</h1>
-  <h3>Turning Data into Decisions | Aspiring Data Analyst</h3>
+  <h3>Turning Data into Decisions | Aspiring Data Analyst and Product Manager</h3>
 </div>
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-sanjeev)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](swapnilsanjeev4@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Sa&color=blue&style=flat-square)
   
@@ -19,8 +18,11 @@
 
 🎓 **3rd Year BCA Student** | AI & ML Specialization @ Sharda University  
 📍 **Location:** Delhi NCR, India  
-🎯 **Career Goal:** Entry-level Data Analyst | Business Intelligence Analyst  
-📊 **Certified:** Microsoft Power BI Data Analyst Professional Certificate
+🎯 **Career Goal:** Entry-level Data Analyst | Business Intelligence Analyst with Product Management ambitions 
+
+I combine **analytical rigor** with **product thinking** to solve user problems. Currently focused on landing a Data Analyst role while building product sense through side projects and continuous learning.
+
+**Why this combination?** The best PMs are data-informed. I'm building a foundation in analytics to make better product decisions in the future.
 
 I'm passionate about extracting meaningful insights from data and communicating them effectively to drive business decisions. My focus is on combining statistical analysis, data visualization, and machine learning to solve real-world problems.
 
@@ -80,7 +82,7 @@ Comprehensive Power BI analysis of sales, profitability, and market performance 
 
 **[View Project →](https://github.com/Swapnil-Sa/Breast-Cancer-ML-Analysis-With-PCA)**
 
-Published research on ML-based breast cancer diagnosis with feature selection and PCA optimization.
+Research paper on ML-based breast cancer diagnosis with feature selection and PCA optimization.
 
 **Key Achievements:**
 - 📄 Co-authored research paper
@@ -162,6 +164,7 @@ current_goals = {
     "learning": ["Advanced SQL", "Statistical Analysis", "A/B Testing"],
     "building": ["End-to-End Data Analytics Portfolio", "Interactive Dashboards"],
     "seeking": ["Data Analyst Roles", "BI Analyst Positions"],
+     "long_term_vision": "Transition to Product Management in 2-3 years"
     "location": "Delhi NCR (Open to Remote)"
 }
 ```
@@ -175,6 +178,7 @@ I'm actively seeking **entry-level positions** in:
 - 💼 **Business Intelligence Analyst** positions  
 - 📈 **Business Analyst** opportunities
 - 🔍 **HR/People Analytics** positions
+- 🚀 **Associate Product Analyst roles** (data + product hybrid)
 
 **Preferred Location:** Delhi NCR, Noida | **Work Mode:** Onsite or Remote
 
@@ -187,7 +191,7 @@ I'm actively seeking **entry-level positions** in:
   **Looking to collaborate on data projects or discuss opportunities?**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-sanjeev)
-  [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](swapnilsanjeev4@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil-Sa)
   
 </div>
