@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Swapnil Sanjeev 👋
 
-<!--
-**Swapnil-Sa/Swapnil-Sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student** specializing in AI & ML @ Sharda University  
+📊 **Aspiring Data Analyst** | Power BI Certified | Python Enthusiast  
+📍 Delhi NCR, India
 
-Here are some ideas to get you started:
+## 🔍 What I Do
+- Transform data into actionable insights using **Power BI**, **Python**, and **SQL**
+- Build ML models for classification, prediction, and explainable AI
+- Research-oriented: Published work on breast cancer diagnosis using ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Data Analysis:** Power BI · Excel · Python (Pandas, NumPy, Matplotlib, Seaborn)  
+**Machine Learning:** Scikit-learn · TensorFlow · Feature Engineering · PCA  
+**Tools:** Jupyter · Git · VS Code
+
+## 📌 Featured Projects
+- 📈 [Tailwind Trades Power BI Dashboard](link) - Sales & profitability analysis
+- 🔬 [Breast Cancer ML Classification](link) - Research paper with 95% accuracy
+- 🎯 [Explainable AI for Job Placement](link) - SHAP-based feature interpretation
+
+## 📫 Let's Connect
+[![LinkedIn](linkedin.com/in/swapnil-sanjeev)
+
+---
+💡 *Currently seeking entry-level Data Analyst opportunities in Delhi NCR*
