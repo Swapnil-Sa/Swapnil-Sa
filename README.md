@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Swapnil Sanjeev</h1>
-  <h3>Turning Data into Decisions | Aspiring Data Analyst and Product Manager</h3>
+  <h3>Turning Data into Decisions | Aspiring Data Analyst with Product Thinking</h3>
 </div>
 
 <div align="center">
