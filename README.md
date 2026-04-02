@@ -115,20 +115,20 @@ ML model with SHAP interpretability for student placement prediction with transp
 </td>
 <td width="50%">
 
-### 📧 Email Spam Detection
+### 🛒 Olist Brazilian E-Commerce Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**[View Project →](https://github.com/Swapnil-Sa/Email-Spam-Detection)**
+**[View Project →](https://github.com/Swapnil-Sa/Olist_Brazilian_E-Commerce)**
 
-Text classification system using NLP and ML to identify spam emails.
+End-to-end data analysis of Brazil’s Olist e-commerce dataset to uncover sales trends, customer behavior, and delivery performance.
 
 **Key Achievements:**
-- ✅ 92% spam detection accuracy
-- 🔤 NLP preprocessing & feature extraction
-- ⚡ Real-time classification pipeline
+- 📊 Analyzed 100K+ orders to identify revenue and customer trends  
+- 🚚 Discovered delivery delays impacting customer satisfaction  
+- 📈 Built interactive dashboards to track KPIs like sales, orders, and reviews  
 
-**Skills:** NLP · Text Classification · Model Deployment
+**Skills:** EDA · Data Cleaning · SQL · Power BI · Business Insights
 
 </td>
 </tr>
