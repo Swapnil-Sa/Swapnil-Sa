@@ -16,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 **3rd Year BCA Student** | AI & ML Specialization @ Sharda University  
+🎓 **BCA Graduate** | AI & ML Specialization @ Sharda University (CGPA: 8.56)  
 📍 **Location:** Delhi NCR, India  
-🎯 **Career Goal:** Entry-level Data Analyst | Business Intelligence Analyst with Product Management ambitions 
+🎯 **Seeking:** Entry-level Data Analyst | Business Analyst | BI Analyst roles 
 
 I combine **analytical rigor** with **product thinking** to solve user problems. Currently focused on landing a Data Analyst role while building product sense through side projects and continuous learning.
 
