@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **BCA Graduate** | AI & ML Specialization @ Sharda University (CGPA: 8.56)  
+🎓 **BCA Graduate** | AI & ML Specialization @ Sharda University  
 📍 **Location:** Delhi NCR, India  
 🎯 **Seeking:** Entry-level Data Analyst | Business Analyst | BI Analyst roles 
 
